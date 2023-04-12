@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepak-Laksman
 - 👀 I’m a Competitve Programmer
 - 🌱 I'm also good at backend web development using Node, Express and MongoDB
-- 💞️ I’m looking to collaborate on interesting preojects related to ML
+
 
 
 <!---
